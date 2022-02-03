@@ -23,7 +23,7 @@ export default {
 };
 </script>
 
-<style>
+<style scoped>
 .todos {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
