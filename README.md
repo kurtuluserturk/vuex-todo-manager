@@ -1,6 +1,15 @@
 # vuex-todo-manager
 
-## Project setup
+## Deployment Link
+https://todo-manager-vuexx.netlify.app/
+
+## Used Technologies
+1. Vue
+2. Vuex
+3. Axios
+4. Netlify
+
+### Project setup
 ```
 yarn install
 ```
